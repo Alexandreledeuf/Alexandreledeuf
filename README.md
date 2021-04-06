@@ -1,5 +1,5 @@
 ### Hi there 👋, Alexandre
-#### computer engineering school
+#### computer engineering school student
 I'm Alexandre from France. I'm a student in a computer engineering school. I develop with all kinds of programming languages.
 I really enjoy working with databases. I navigate through them to get interesting results.
 
